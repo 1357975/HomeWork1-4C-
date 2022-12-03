@@ -1,3 +1,4 @@
-﻿int a=7;
-if (a%2==0) Console.WriteLine("Четное");
-else Console.WriteLine("Нечетное");
+﻿int a=-6;
+Console.Write(a);
+if (a%2==0) Console.Write("  Четное");
+else Console.Write("  Нечетное");
