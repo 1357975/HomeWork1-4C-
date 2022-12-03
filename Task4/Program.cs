@@ -1,4 +1,4 @@
-﻿double N=1;
+﻿int N=1;
 while(N<=5)
 {
     if(N%2==0)
